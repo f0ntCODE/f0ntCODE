@@ -41,14 +41,6 @@ Prazer! Me chamo Leonardo Fontanive Tonet e seja bem-vindo(a) ao meu perfil do G
 - Pratico o estoicismo e o cristianismo, que compõem minha essência 🧘‍♂️;
 - Gosto de manter o foco e do silêncio, mas sou um bom ouvinte 🫂;
 
-## Confira meu projeto mais atual! 🖥️ :
- [*Projeto Agile*](https://github.com/f0ntCODE/agile.git): API para e-commerce desenvolvido utilizando a metodologia ágil e boas práticas de desenvolvimento.
- - Foco em boas práticas em desenvolvimento;
- - Engenharia de software aplicada com diagramas UML;
- - Design de software limpo, com foco no domínio;
- - Testes de software implementados.
- - **Em construção 🏗️**
-
 
 ### 
 <div align="right">
